@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: backstage-go-microservice-test
+  description: Go test repo created by Backstage
+  annotations: 
+    github.com/project-slug: thermofisher-development/backstage-go-microservice-test
+    backstage.io/source-ref: "https://github.com/thermofisher-development/backstage-go-microservice-test"
+    backstage.io/techdocs-ref: url:https://github.com/thermofisher-development/backstage-go-microservice-test
+    backstage.io/github-actions-id: https://github.com/thermofisher-development/backstage-go-microservice-test
+spec:
+  type: service
+  lifecycle: experimental
+  owner: jorge-vargas-tfs
