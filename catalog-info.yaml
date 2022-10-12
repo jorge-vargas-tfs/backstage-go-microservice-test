@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-go-microservice-test
+  name: Godzilla Service
   description: Go test repo created by Backstage
   annotations: 
     github.com/project-slug: thermofisher-development/backstage-go-microservice-test
