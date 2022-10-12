@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: Godzilla Service
-  description: Go test repo created by Backstage
+  name: notification-service
+  description: Notification service repository
   annotations: 
     github.com/project-slug: thermofisher-development/backstage-go-microservice-test
     backstage.io/source-ref: "https://github.com/thermofisher-development/backstage-go-microservice-test"
