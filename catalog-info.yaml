@@ -11,4 +11,4 @@ metadata:
 spec:
   type: service
   lifecycle: experimental
-  owner: jorge-vargas-tfs
+  owner: godzillas
